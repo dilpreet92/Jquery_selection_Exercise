@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	// 1.Select all of the div elements that have a class of "module"
+  // 1.Select all of the div elements that have a class of "module"
   $("div.module").css("background-color", "yellow");
 
   // 2.Selecting third item in the #myList
